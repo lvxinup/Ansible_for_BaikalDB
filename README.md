@@ -102,7 +102,7 @@ xx.xx.xx.156 | SUCCESS => {
 
 首先构建一个如下所示的BaikalDB目录，二进制编译与conf配置参照https://github.com/baidu/BaikalDB/wiki/Installation-EN。
 
-![image-20201211164153805](/Users/lvxin/Library/Application Support/typora-user-images/image-20201211164153805.png)
+![image-20201211164153805](https://github.com/lvxinup/Ansible_for_BaikalDB/blob/main/image-20201211164153805.png)
 
 之后创建三个playbook文件以及部署脚本，内容如下：
 
